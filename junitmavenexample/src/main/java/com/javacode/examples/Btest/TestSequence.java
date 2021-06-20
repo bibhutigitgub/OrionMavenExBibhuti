@@ -7,7 +7,7 @@ public class TestSequence implements ITestSequence {
 	// public static long count;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		Scanner scan = new Scanner(System.in);
 		int testCastCount = scan.nextInt();
