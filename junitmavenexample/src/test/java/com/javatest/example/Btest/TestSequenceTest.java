@@ -11,7 +11,7 @@ import com.javacode.examples.Btest.TestSequence;
 
 public class TestSequenceTest {
 	private static ITestSequence itTestSequence;
-
+//Bibhuti pradhan commit1
 	@BeforeClass
 	public static void initCalculator() {
 		itTestSequence = new TestSequence();
